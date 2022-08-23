@@ -1,7 +1,6 @@
 import collections
 from tkinter import *
 from PIL import Image, ImageTk
-import keyboard
 import random
 import time
 
